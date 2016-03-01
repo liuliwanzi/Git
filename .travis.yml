@@ -1,0 +1,5 @@
+languahe: python
+rvm:
+ -2.7.10
+script:
+ -make test
